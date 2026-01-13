@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou João
 
-<!--
-**jaoaoliv/jaoaoliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mim
+Desenvolvedor em formação focado em Python.
+Estudo diariamente com foco em entrar no mercado o mais rápido possível.
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias
+- Python (básico → intermediário)
+- Git & GitHub
+- Lógica de programação
+- APIs REST (em estudo)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos em destaque
+- 🔹 Cadastro Simples Persistente em Python ([link](https://github.com/jaoaoliv/cadastro-pessoas-python)) – Projeto desenvolvido para praticar lógica de programação, estruturação de código e persistência de dados em Python.
+
+## 📫 Contato
+- LinkedIn: [link](https://www.linkedin.com/in/jaoaoliv-dev/)
+- Email: jaoaoliv.dev@gmail.com

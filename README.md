@@ -1,18 +1,9 @@
-# 👋 Olá, eu sou João
+Olá! 👋
 
-## 🚀 Sobre mim
-Desenvolvedor em formação focado em Python.
-Estudo diariamente com foco em entrar no mercado o mais rápido possível.
+🎓 Estudante de Ciência da Computação, começando em novembro de 2026.
 
-## 🧠 Tecnologias
-- Python (básico → intermediário)
-- Git & GitHub
-- Lógica de programação
-- APIs REST (em estudo)
+🎮 Gosto de jogos, tecnologia e de criar coisas.
 
-## 📌 Projetos em destaque
-- 🔹 Cadastro Simples Persistente em Python ([link](https://github.com/jaoaoliv/cadastro-pessoas-python)) – Projeto desenvolvido para praticar lógica de programação, estruturação de código e persistência de dados em Python.
+💡 Meu objetivo é desenvolver projetos interessantes, úteis e criativos, explorando ideias e aprendendo coisas novas pelo caminho.
 
-## 📫 Contato
-- LinkedIn: [link](https://www.linkedin.com/in/jaoaoliv-dev/)
-- Email: jaoaoliv.dev@gmail.com
+🚀 Este perfil será meu espaço para compartilhar projetos, experimentos e minha evolução como desenvolvedor.
